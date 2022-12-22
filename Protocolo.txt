@@ -1,0 +1,4 @@
+Cliente                 Servidor
+udp(rangoPuertos)  -->
+                   <-- for-tcp(cliente=ServerSocket)
+                   <--udp(información)
